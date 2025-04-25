@@ -1,0 +1,4 @@
+1) In function federalTax: Changed taxableAmount calculation from '+' to '-'.
+2) Corrected condition in tax bracket loop from '<' to '<='.
+3) Fixed state tax formula to multiply instead of divide.
+4) Improved error handling for undefined brackets.
